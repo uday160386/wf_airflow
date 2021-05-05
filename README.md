@@ -37,13 +37,15 @@ webserver:
 
 ```
 
-## Apache Airflow Web Page
+## Apache Airflow Web Page User View
 ```sh
 The above command will run a server on port 8080 and applciation be accessed @ 
 http://localhost:8080
 
 ```
-## WebPage View
+## UI - Dashboard View
 ![picture](design/adminpage.png)
+
+## UI - Tree View
 ![picture](design/graphview.png)
 
